@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  width: 380px;
+  height: 600px;   /* max usable size */
+  padding: 5px;
+  margin: 0;
+  overflow: hidden; /* ❌ no scroll */
+}
+
+h2 {
+  text-align: center;
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+h3 {
+  font-size: 13px;
+  margin: 5px 0;
+}
+
+p {
+  font-size: 11px;
+  margin: 2px 0;
+}
