@@ -28,6 +28,5 @@ In conclusion, this project demonstrates practical knowledge of browser extensio
 
 *OUT PUT*
 
-
-
+<img width="739" height="863" alt="Image" src="https://github.com/user-attachments/assets/0b682d92-9dc1-438b-b531-ab538090c673" />
 
